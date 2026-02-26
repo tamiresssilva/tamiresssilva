@@ -1,4 +1,4 @@
-# Hi, I'm Tamires Silva 👋
+# Hi, I'm Tamires Silva
 
 I work with Applied AI, AI Quality and Data Automation, building systems focused on reliability, evaluation and intelligent automation.
 
